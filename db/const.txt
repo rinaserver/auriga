@@ -57,6 +57,8 @@ Job_Kagerou	43
 Job_Oboro	44
 Job_Rebellion	45
 Job_Summoner	46
+Job_StarEmperor	47
+Job_SoulReaper	48
 
 //Class’è‹`’l
 CLASS_NV	0
